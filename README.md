@@ -1,4 +1,4 @@
 # exaple1
 
 
-![ERD](ERD-sample)
+![ERD](ERD-sample.png)
